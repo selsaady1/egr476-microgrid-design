@@ -4,10 +4,14 @@
 
 ![Xendee (microgrid design and power-flow software)](https://img.shields.io/badge/Xendee_%28microgrid_design_and_power--flow_software%29-0a7?style=flat-square) ![Lazard levelized cost data](https://img.shields.io/badge/Lazard_levelized_cost_data-0a7?style=flat-square) ![Hawaiian Electric rate structures](https://img.shields.io/badge/Hawaiian_Electric_rate_structures-0a7?style=flat-square) ![Power-flow analysis](https://img.shields.io/badge/Power--flow_analysis-0a7?style=flat-square) 
 
+![Microgrid Design &amp; Operation](images/fig1.png)
+
 ### 🌐 Live project page → **https://selsaady1.github.io/egr476-microgrid-design/**
 
 ## Overview
 Coursework from EGR 476/598 (Microgrid Design and Operation) that designs and analyzes a microgrid to keep a critical facility powered on the island of Oahu, Hawaii. The work pairs an economic optimization of generation and storage assets (Project 1) with a power-engineering design and power-flow analysis of the resulting one-line system (Project 2), plus a distribution power-flow homework write-up.
+
+**Highlight:** 3.85 MW solar PV + 2.09 MWh battery (low-cost optimization)
 
 **Highlight:** 3.85 MW solar PV + 2.09 MWh battery (low-cost optimization)
 
@@ -27,15 +31,29 @@ The design was carried out in Xendee, building a GIS-located project, populating
 - Hawaiian Electric rate structures
 - Power-flow analysis
 
+## Gallery
+![figure](images/fig2.png)
+![figure](images/fig3.png)
+![figure](images/fig4.png)
+![figure](images/fig5.png)
+
 ## Repository Structure
 ```
 .gitignore
+.nojekyll
 LICENSE
 README.md
 docs/EGR476_Project_1.docx_1_.pdf
 docs/EGR476_Write_Up.docx.pdf
 docs/Project_2.docx_1_.pdf
+images/fig1.png
+images/fig2.png
+images/fig3.png
+images/fig4.png
+images/fig5.png
+images/fig6.png
 images/preview.png
+index.html
 ```
 
 ## Results
